@@ -1,0 +1,500 @@
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+cd ../
+cd mp1
+git add . && git commit -m "Final" && git push
+cd ../mp2
+git add . && git commit -m "Final" && git push
+cd ../mp3
+git add . && git commit -m "Final" && git push
+cd ../mp4
+git add . && git commit -m "Final" && git push
+cd ../mp5
+git add . && git commit -m "Final" && git push
+cd ../mp6
+cd ../mp7
+git add . && git commit -m "Final" && git push
+make exec
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make exec
+make exec
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make tests && ./bin/tests
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+gdb bin/exec
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+gdb bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+gdb bin/exec 
+make exec && ./bin/exec 
+gdb bin/exec
+make exec && ./bin/exec 
+gdb bin/exec
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt \ ./bin/exec
+valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt /bin/exec
+valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt ./bin/exec
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+make exec && ./bin/exec 
+gdb bin/exec
+bash -c "$(wget -O - http://courses.grainger.illinois.edu/cs128/sp2022/update.sh)"
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+valgrind --leak-check=full bin/exec
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+valgrind --leak-check=full bin/exec
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec
+make exec && valgrind --leak-check=full bin/exec -s
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+gdb bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+bin/exec
+bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+bin/exec
+bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec & bin/exec
+make exec & bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+gdb bin/exec
+make exec && bin/exec
+gdb bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+gdb bin/exec
+make exec && bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+make exec && valgrind --leak-check=full -s bin/exec
+bin/exec
+bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+gdb bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+gdb
+q
+gdb bin/exec
+make exec
+make exec
+make exec
+make exec
+make exec
+make exec
+make exec
+make exec
+make exec && ./bin/exec
+gdb
+q
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+valgrind --leak-check=full bin/exec
+valgrind --leak-check=full bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+valgrind --leak-check=full --track-origins=yes bin/exec
+valgrind --leak-check=full --track-origins=yes -g -fstandalone-debug  bin/exec
+valgrind --leak-check=full --track-origins=yes --g --fstandalone-debug  bin/exec
+valgrind --help
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+gdb bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec && bin/exec
+make exec
+make exec
+make exec
+make exec
+make exec
+make exec
+bin/exec images/ocean.ppm -v 170 -h 50 -o ocean-carved.ppm
+bin/exec
+bin/exec images/ocean.ppm -v 170 -h 50 -o ocean-carved.ppm
+make exec && bin/exec images/ocean.ppm -v 170 -h 50 -o ocean-carved.ppm
+make exec && bin/exec images/ocean.ppm -v 170 -h 50 -o ocean-carved.ppm
+bin/exec
+bin/exec images/ocean.ppm -v 170 -h 50 -o ocean-carved.ppm
+bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+make exec
+bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+make exec/bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+make exec && bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+make exec && bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+make exec && bin/exec images/ocean.ppm -v 170 -h 50 -o my-ocean-carved.ppm
+diff your-carved-ocean.ppm images/ocean-carved.ppm
+diff my-carved-ocean.ppm images/ocean-carved.ppm
+diff my-ocean-carved.ppm images/ocean-carved.ppm 
+make exec
+make exec
+make exec
+make exec
+make exec
